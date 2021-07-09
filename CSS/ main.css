@@ -7,7 +7,7 @@ html {
 }
 
 body{
-  background-color #ccc;
+  background-color #cccccc;
   font-family: sans-serif;
 }
 
@@ -17,5 +17,5 @@ h1 {
 
 article {
   font-style: italic
-  color: #666;
+  color: #666666;
 }
